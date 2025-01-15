@@ -47,6 +47,7 @@ This chatbot has several trigger messages for activation. When a user sends an a
 2. The QR code will be generated and displayed in the terminal when you run the command `node Caebot.js`. Scan the code with WhatsApp on your phone to authenticate.
 
 3. After authentication, the bot will send a confirmation message in the terminal and will be ready to receive and respond to messages.
+
 ![QR Code](assets/qrcode.png)
 
 ## Modifications
