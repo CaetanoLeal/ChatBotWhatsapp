@@ -4,8 +4,12 @@ This is a free and easily modifiable WhatsApp chatbot. To connect, simply scan t
 
 ## Technologies Used
 
-- [whatsapp-web.js](https://github.com/mukulhase/WebWhatsapp-Wrapper): A library to interact with WhatsApp Web.
+- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js/): A library to interact with WhatsApp Web.
 - [qr-code-terminal](https://github.com/gtaranuq/qr-code-terminal): Displays QR codes directly in the terminal to facilitate authentication.
+
+> [!IMPORTANT]
+> **It is not guaranteed you will not be blocked by using this method. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe.**
+
 
 ## How It Works
 
